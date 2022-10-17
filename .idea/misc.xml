@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/backbutton.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/circular_progress.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/gradiant.xml" value="0.1325" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.17708333333333334" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.17708333333333334" />
       </map>
     </option>
