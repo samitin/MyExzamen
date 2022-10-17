@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/startFragment"
-        android:name="com.example.myquizapp.Fragment.StartFragment"
+        android:name="ru.samitin.myexzamen.Fragments.StartFragment"
         tools:layout="@layout/startfragment"
         android:label="StartFragment" >
         <action
@@ -20,7 +20,7 @@
     </fragment>
     <fragment
         android:id="@+id/listFragment"
-        android:name="com.example.myquizapp.Fragment.ListFragment"
+        android:name="ru.samitin.myexzamen.Fragments.ListFragment"
         tools:layout="@layout/listfragment"
 
         android:label="ListFragment" >
@@ -34,7 +34,7 @@
     </fragment>
     <fragment
         android:id="@+id/detailFragment"
-        android:name="com.example.myquizapp.Fragment.DetailFragment"
+        android:name="ru.samitin.myexzamen.Fragments.DetailFragment"
         tools:layout="@layout/detailfrag"
 
         android:label="DetailFragment" >
@@ -52,7 +52,7 @@
     </fragment>
     <fragment
         android:id="@+id/quizFragment"
-        android:name="com.example.myquizapp.Fragment.QuizFragment"
+        android:name="ru.samitin.myexzamen.Fragments.QuizFragment"
         tools:layout="@layout/quizfrag"
 
         android:label="QuizFragment" >
@@ -79,7 +79,7 @@
         android:id="@+id/resultFragment"
         tools:layout="@layout/resultfrag"
 
-        android:name="com.example.myquizapp.Fragment.ResultFragment"
+        android:name="ru.samitin.myexzamen.Fragments.ResultFragment"
         android:label="ResultFragment" >
         <action
             android:id="@+id/action_resultFragment_to_listFragment"
